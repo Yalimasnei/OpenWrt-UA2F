@@ -110,7 +110,7 @@ Web页面设置
                                       ntp.aliyun.com
                                       time1.cloud.tencent.com
                                       time.ustc.edu.cn
-                                      time.ustc.edu.cn
+                                      cn.pool.ntp.org
 默认无线未启用，需要自行设置，记得保存并应用！！！
 ```
 设置UA2F
